@@ -1,8 +1,8 @@
 # Hi, I'm Ayushi Shukla 👋 
 
-### Freelance Bioinformatics Scientist 
 
-I transform raw biological data into reproducible insights. Currently leading R&D at a health-tech startup and building open-source bioinformatics workflows.
+
+I transform raw biological data into reproducible insights. 
 
 ---
 
