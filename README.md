@@ -1,4 +1,4 @@
-# Hi, I'm Ayushi Shukla 👋 
+# Hi, I'm Ayushi
 
 
 
