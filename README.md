@@ -25,6 +25,5 @@ I transform raw biological data into reproducible insights.
 
 ## 📫 Let's Collaborate!
 - **LinkedIn:** [www.linkedin.com/in/a-yushishukla]
-- **YouTube:** [The Daerblue Lab]
   
 *"Turning raw FASTQ files into biological stories."*
