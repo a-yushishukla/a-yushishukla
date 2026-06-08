@@ -11,11 +11,6 @@ I transform raw biological data into reproducible insights.
 - **Tools:** Git, Docker, Nextflow, Snakemake.
 - **Analysis:** RNA-Seq, Phylogenetics, Gene Expression Heatmaps, GC Content Optimization.
 
-## Freelance Services
-- **Custom Pipeline Development:** Automated workflows for genomic data.
-- **Data Visualization:** Publication-ready PCA plots, Heatmaps, and Trees.
-- **Scientific Consulting:** Assisting labs with bioinformatics methods.
-
 ## Featured Projects
 - [RNA-Seq Analysis Pipeline](https://github.com/a-yushishukla) - Automated differential gene expression.
 - [Phylogenetic Tree Construction](https://github.com/a-yushishukla) - Evolutionary visualization.
