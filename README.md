@@ -1,11 +1,5 @@
 # Hi, I'm Ayushi
 
-
-
-I transform raw biological data into reproducible insights. 
-
----
-
 ## My Tech Stack
 - **Languages:** Python (Biopython, Pandas), R (Bioconductor, DESeq2), Bash/Linux.
 - **Tools:** Git, Docker, Nextflow, Snakemake.
@@ -20,5 +14,3 @@ I transform raw biological data into reproducible insights.
 
 ## 📫 Let's Collaborate!
 - **LinkedIn:** [www.linkedin.com/in/a-yushishukla]
-  
-*"Turning raw FASTQ files into biological stories."*
